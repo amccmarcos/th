@@ -1,0 +1,164 @@
+body {
+ background-image: url("imgs/background.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+#banner{
+background-color:black;
+align-items:center;
+}
+#menu{
+		
+}
+#button1{
+	background-color:white;
+	height:3%;
+	width:8%;
+	position:absolute;
+	align-content:cover;
+	margin-left:25%;
+	margin-top:25%;
+	text-align:center;
+	align-content:center;	
+	font-family:impact;
+	font-size:32px;
+}
+#button2{
+	background-color:white;
+	height:3%;
+	width:8%;
+	position:absolute;
+	align-content:cover;
+	margin-left:37%;
+	margin-top:25%;
+	text-align:center;	
+	font-family:impact;
+	font-size:22px;
+}
+#button3{
+	background-color:white;
+	height:3%;
+	width:8%;
+	position:absolute;
+	align-content:cover;
+	margin-left:49%;
+	margin-top:25%;
+	text-align:center;
+	align-content:center;
+	font-family:impact;
+	font-size:32px;
+
+}
+#button4{
+	background-color:white;
+	height:3%;
+	width:8%;
+	position:absolute;
+	align-content:cover;
+	margin-left:61%;
+	margin-top:25%;
+	text-align:center;
+	align-content:center;	
+	font-family:impact;
+	font-size:32px;
+}
+
+img {
+width:100%;
+height:auto;
+}
+#leftsidebanner{
+background-image: url('imgs/bg1.jpg');
+background-size:cover;
+color:WHITE;
+text-align:TOP;
+text-align:CENTER;
+text-shadow: 1px 1px;
+width:10%; 
+height:180%;
+left:1%;
+position:absolute;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+align-content:cover;
+border-style: groove;
+	
+}
+#rightsidebanner{
+background-image: url('imgs/bg1.jpg');
+background-size:cover;
+color:WHITE;
+text-align:TOP;
+text-align:CENTER;
+text-shadow: 1px 1px;
+width:10%;
+height:180%;
+position:absolute;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+right:1%;
+border-style: groove;
+}
+#body-content{
+background-color:black;
+width:54.5%;
+height:1100%;
+position:absolute;
+margin-top:10%;
+margin-left:18%;
+	padding: 0 20px 20px 20px;
+	border: 5px solid purple;
+	color:white;
+	text-align: top;
+	text-align:center;
+}
+#text-home{
+	background-color:black;
+	color:white;
+	text-align:center;
+
+	
+}
+#event{
+	background-color:black;
+	color:white;
+	text-align:center;
+	border: 5px solid purple;	
+	
+}
+#guia_vendas{
+	
+	color:white;
+	text-align:left;
+}
+#carteira{
+	height:505px;
+	width:300px;
+	border: 5px solid purple;		
+}
+#criaroffer{
+	height:505px;
+	width:300px;
+	border: 5px solid purple;		
+}
+#market1{
+	height:505px;
+	width:300px;
+	border: 5px solid purple;		
+}
+#pct1{
+	height:505px;
+	width:300px;
+	border: 5px solid purple;	
+	text-align:center;	
+}
+#npc_mira{
+	height:350px;
+	width:300px;
+	border: 5px solid purple;		
+}
+#npc_mira_boxes{
+	height:350px;
+	width:300px;
+	border: 5px solid purple;		
+}
